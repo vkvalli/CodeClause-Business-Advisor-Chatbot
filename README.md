@@ -25,3 +25,8 @@ You can find all the datasets at: https://www.kaggle.com/datasets
 * Relative Strength Analysis: We analyzed the relative strength of Airbnb's stock compared to a benchmark index to assess its strength against the market.
 * Breakout Analysis: Identified potential breakout points in the stock's price movement to anticipate significant price movements.
 * Market Sentiment Analysis: Conducted sentiment analysis using various techniques to gauge market sentiment toward Airbnb's stock.
+
+## Usage
+
+* Download the files and run Business Advisor Chatbot.ipynb. Once the last cell has been run, navigate to the link provided in the console to open the development server. 
+* The chatbot understands several commands, such as "hello", "what can you do", and "what do you do". You can also type "1", "2", or "3" to access the different features of the chatbot.
